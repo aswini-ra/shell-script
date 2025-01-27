@@ -1,7 +1,8 @@
 #!/bin/bash
+
 # adding variales for this script
 
-PERSON1=Aswini 3 no space before and after equal
+PERSON1=Aswini # no space before and after equal
 PERSON2=Hari
 
 echo "$PERSON1: Hi $PERSON2!"
