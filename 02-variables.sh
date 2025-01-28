@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# adding variales for this script
+# learning variales for this script
 
 PERSON1=Aswini # no space before and after equal
 PERSON2=Hari
